@@ -15,4 +15,4 @@ to understand better how to style websites with modern css features as the grid 
 - [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
 
-### Visit the site [clicking here](https://danielmesquitta.github.io/nexter/).
+### Visit the site by [clicking here](https://danielmesquitta.github.io/nexter/).
